@@ -9,7 +9,7 @@
 **Some places that I had already visited**
 - [x] England
 - [x] France
-- [x] Portugal
+- [x] Portugal \
 ***Some places that I want to visit:***
 -Italiy
  -Venessia
