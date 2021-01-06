@@ -5,4 +5,8 @@
 * learn more
 * go to some beautiful places
 
-## places that I wanna visit
+## places to visit
+**Some places that I had already visited**
+- [x] England
+- [x] France
+- [x] Portugal
