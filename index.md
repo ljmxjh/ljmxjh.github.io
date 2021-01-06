@@ -26,3 +26,11 @@
 More information can be found [here](https://en.wikipedia.org/wiki/Venice)
 >Venice is a city in northeastern Italy and the capital of the Veneto region.
 
+## Codes to learn 
+/
+Some Git commands:
+```
+git push
+git add
+git commit
+```
