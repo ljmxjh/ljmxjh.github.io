@@ -14,10 +14,12 @@
 ***Some places that I want to visit:***
 1. Italy
    - Milan
-   - Venessia
+   - Venice
 2. Germany
 3. Grace
 
 \
 ***Where is Venice?***
->Venice is a city in northeastern Italy and the capital of the Veneto region\
+>Venice is a city in northeastern Italy and the capital of the Veneto region
+\
+More information can be found [here] (https://en.wikipedia.org/wiki/Venice) 
