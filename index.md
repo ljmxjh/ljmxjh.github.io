@@ -20,6 +20,7 @@
 
 \
 ***Where is Venice?***
-\More information can be found [here](https://en.wikipedia.org/wiki/Venice/).
+\
+More information can be found [here](https://en.wikipedia.org/wiki/Venice)
 >Venice is a city in northeastern Italy and the capital of the Veneto region.
 
