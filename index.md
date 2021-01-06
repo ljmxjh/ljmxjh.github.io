@@ -2,8 +2,10 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) \
 *New year wishes for me:*
 * be happy
-* learn more
-* go to some beautiful places ([go to places that I want to visited](## places to Travel))
+* learn more coding
+* go to some beautiful places 
+\
+[go to places that I want to visited](## places to Travel)
 
 ## places to Travel
 **Some places that I had already visited:**
