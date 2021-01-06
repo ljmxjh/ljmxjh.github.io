@@ -3,7 +3,7 @@
 *New year wishes for me:*
 * be happy
 * learn more
-* go to some beautiful places ([go to places that I want to visited](#places to Travel))
+* go to some beautiful places ([go to places that I want to visited](## places to Travel))
 
 ## places to Travel
 **Some places that I had already visited:**
