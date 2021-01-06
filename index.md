@@ -6,10 +6,11 @@
 * go to some beautiful places
 
 ## places to Travel
-**Some places that I had already visited**
+**Some places that I had already visited:**
 - [x] England
 - [x] France
-- [x] Portugal \
+- [x] Portugal 
+\
 ***Some places that I want to visit:***
 1. Italy
    - Milan
