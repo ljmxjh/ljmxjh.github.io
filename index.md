@@ -5,8 +5,14 @@
 * learn more
 * go to some beautiful places
 
-## places to visit
+## places to Travel
 **Some places that I had already visited**
 - [x] England
 - [x] France
 - [x] Portugal
+***Some places that I want to visit:***
+-Italiy
+ -Venessia
+ -Milan
+-Grace
+-Germany
