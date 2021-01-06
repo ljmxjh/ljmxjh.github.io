@@ -11,8 +11,8 @@
 - [x] France
 - [x] Portugal \
 ***Some places that I want to visit:***
--Italiy
- -Venessia
- -Milan
--Grace
--Germany
+1. Italy
+   - Milan
+   - Venessia
+2. Germany
+3. Grace
