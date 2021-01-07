@@ -5,7 +5,7 @@
 * learn more coding
 * go to some beautiful places 
 \
-[go to places that I want to visited](## places to Travel)
+[go to places that I want to visited](# places to Travel)
 
 ## places to Travel
 **Some places that I had already visited:**
