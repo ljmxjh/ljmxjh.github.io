@@ -1,7 +1,7 @@
 # Welcome to Jiaming Li's Pages
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 
-[go to README](\README.md)
+[go to README](./README.md)
 \
 *New year wishes for me:*
 * be happy
