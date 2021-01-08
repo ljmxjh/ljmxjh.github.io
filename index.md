@@ -1,5 +1,5 @@
 # Welcome to Jiaming Li's Pages
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) \
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 
 [go to README](\README.md)
 \
